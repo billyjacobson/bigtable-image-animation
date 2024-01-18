@@ -1,0 +1,16 @@
+{
+  "name": "bigtable-image-animation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/bigtable": "^5.0.0",
+    "p5": "^1.9.0"
+  }
+}
